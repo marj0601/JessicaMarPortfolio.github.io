@@ -61,13 +61,13 @@ body {
 		}
 		
 		section#content p {
-			color: #666;
+			color: #000000;
 			ling-height: 1.6;
 			margin-bottom: 10px;
 		}
 		
 		aside#hobbies {
-			font-size: 90%;
+			font-size: 100%;
 			float:right;
 			width:450px;
 			margin-bottom: 20px;
